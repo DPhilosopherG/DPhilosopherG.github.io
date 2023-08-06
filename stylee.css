@@ -105,3 +105,10 @@ span {
     display: flex;
     flex-direction: row;
 }
+
+iframe {
+    align-content: center;
+    display:block;
+    justify-content: center;
+    margin: auto;
+}
