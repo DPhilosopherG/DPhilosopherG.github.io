@@ -24,6 +24,11 @@ h2 {
      font-family: "Lucida Console", "Courier New", monospace;
 }
 
+h1 {
+    color: white;
+     font-family: "Lucida Console", "Courier New", monospace;
+}
+
 img#mark {
       display: block;
   margin-left: auto;
@@ -95,6 +100,15 @@ font-size: 20px;
      font-family: "Lucida Console", "Courier New", monospace;
 }
 
+h1.Soon {
+    color: white;
+font-size: 30px;
+     font-family: "Lucida Console", "Courier New", monospace;
+        align-content: center;
+    display: flex;
+    justify-content: center;
+}
+
 div.Posts {
     max-width: 450px;
     border: 5px;
@@ -103,6 +117,13 @@ div.Posts {
 }
 
 div.Quotes {
+    max-width: 450px;
+    border: 5px;
+    border-color: white;
+    margin: 10px;
+}
+
+div.Articles {
     max-width: 450px;
     border: 5px;
     border-color: white;
