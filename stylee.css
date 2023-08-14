@@ -46,6 +46,12 @@ div.TopButtons {
 hr {
     background-color: white;
     height: 10px;
+  border-radius: 5px;
+}
+
+hr.smallhr {
+    background-color: white;
+    height: 5px;
     border-radius: 5px;
 }
 
@@ -128,6 +134,13 @@ div.Articles {
     border: 5px;
     border-color: white;
     margin: 10px;
+}
+
+div.artic1e {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+margin: auto;
 }
 
 span {
